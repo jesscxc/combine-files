@@ -1,0 +1,1 @@
+q; "The qubits themselves are analogous to the bits used in conventional computers, but can exist in a superposition of states, being both ‘0’ and ‘1’ at the same time (another aspect of quantum weirdness). Linked qubits could in theory zip through calculations that, on a classical computer, would take longer than the age of the Universe."
