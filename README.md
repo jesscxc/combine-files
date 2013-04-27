@@ -31,7 +31,7 @@ To install the gem dependency in Platypus, follow these steps:
 5. Create your Platypus app, add the gems/ folder to the list of files to be bundled.
 
 
-## Note to Other Developers Regarding Ruby, Platypus, and Gem Dependencies 
+## Regarding Ruby, Platypus, and Gem Dependencies 
 
 To get Platypus to work with gems, follow the above instructions, then at the top of your script add:
 
